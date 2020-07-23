@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1595530143 source:c:\users\mangujang\documents\bahasa c\hotel_tr\main.cpp
+1595544664 source:c:\users\mangujang\documents\bahasa c\hotel_tr\main.cpp
 	<windows.h>
 	<GLUT/glut.h>
 	<GL/glut.h>
